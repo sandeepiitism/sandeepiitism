@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn-images-1.medium.com/max/800/1*bbDb35rzxknOY05H3Ljseg.gif)
+![MasterHead](https://isg-one.com/images/default-source/default-album/blockchain-banner.gif?sfvrsn=f3aec931_0)
 <h1 align="center">Hi 👋, I'm Sandeep Chowdhury</h1>
 <h3 align="center">A passionate Smart Contract Developer from India</h3>
 <img align="right" alt="blockchain" width="300" src="https://cdn-images-1.medium.com/max/1200/1*sJ0emtSxww3jEmmVUFYRDQ.gif">
