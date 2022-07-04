@@ -1,7 +1,9 @@
 ![MasterHead](https://isg-one.com/images/default-source/default-album/blockchain-banner.gif?sfvrsn=f3aec931_0)
 <h1 align="center">Hi 👋, I'm Sandeep Chowdhury</h1>
 <h3 align="center">A passionate Smart Contract Developer from India</h3>
-<img align="right" alt="blockchain" width="300" src="https://cdn-images-1.medium.com/max/1200/1*sJ0emtSxww3jEmmVUFYRDQ.gif">
+<br>
+
+<img align="right" alt="blockchain" width="250" src="https://cdn-images-1.medium.com/max/1200/1*sJ0emtSxww3jEmmVUFYRDQ.gif">
 
 <p align="left"> <a href="https://twitter.com/sandeep_iitdhn" target="blank"><img src="https://img.shields.io/twitter/follow/sandeep_iitdhn?logo=twitter&style=for-the-badge" alt="sandeep_iitdhn" /></a> </p>
 
