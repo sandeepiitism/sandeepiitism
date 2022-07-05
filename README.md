@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Blockchain Technologies (Solidity & Hyperledger)**
 
-- 💬 Ask me about **Solidity and Test frameworks (Truffle, Ganache, etc.)**
+- 💬 Ask me about **Solidity and Test frameworks (Hardhat and Truffle/Ganache, etc.)**
 
 - 📫 How to reach me **sandeepiit.ism@gmail.com**
 
