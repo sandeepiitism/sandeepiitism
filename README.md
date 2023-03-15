@@ -1,5 +1,5 @@
-<!-- ![MasterHead](https://isg-one.com/images/default-source/default-album/blockchain-banner.gif?sfvrsn=f3aec931_0) -->
-![MasterHead](https://thumbs.gfycat.com/ArcticMenacingGelada-mobile.mp4)
+![MasterHead](https://isg-one.com/images/default-source/default-album/blockchain-banner.gif?sfvrsn=f3aec931_0)
+
 <h1 align="center">Hi 👋, I'm Sandeep Chowdhury</h1>
 <h3 align="center">A passionate Industry 4.0 Architect from India</h3>
 <br>
