@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sandeep_iitdhn" target="blank"><img src="https://img.shields.io/twitter/follow/sandeep_iitdhn?logo=twitter&style=for-the-badge" alt="sandeep_iitdhn" /></a> </p>
 
-- 🔭 I’m currently working on **AI, Robotics, Analytics and Blockchain**
+- 🔭 I’m currently working on **Data Science, Analytics and Blockchain**
 
 - 🌱 I’m currently learning **Industry 4.0 use cases and architecture**
 
