@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sandeepiit.ism@gmail.com**
 
-- ⚡ Fun fact **I just failed in my 2 startups, Planning for the 3rd ;)**
+- ⚡ Fun fact **I just failed to run a startups, Planning for the next ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
