@@ -1,7 +1,7 @@
 ![MasterHead](https://isg-one.com/images/default-source/default-album/blockchain-banner.gif?sfvrsn=f3aec931_0)
 
 <h1 align="center">Hi 👋, I'm Sandeep Chowdhury</h1>
-<h3 align="center">A passionate Industry 4.0 Architect from India</h3>
+<h3 align="center">A passionate MLops/AIops Architect from India</h3>
 <br>
 
 <img align="right" alt="blockchain" width="250" src="https://cdn-images-1.medium.com/max/1200/1*sJ0emtSxww3jEmmVUFYRDQ.gif">
