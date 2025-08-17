@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/sandeep_iitdhn" target="blank"><img src="https://img.shields.io/twitter/follow/sandeep_iitdhn?logo=twitter&style=for-the-badge" alt="sandeep_iitdhn" /></a> </p>
 
-- 🔭 I’m currently working on **Industrial AI - Machine Learning and Computer Vision**
+- 🔭 I’m currently working on **Time Series Forecasting and GenAI for Supply Chain**
 
-- 🌱 I’m currently learning **Industry 4.0 Machine Connectivity and Architecture for AI usecases**
+- 🌱 I’m currently learning **Deploying AI/ML models in Edge and Cloud**
 
 - 💬 Ask me about **Industry 4.0**
 
-- 📫 How to reach me **sandeepiit.ism@gmail.com**
+- 📫 How to reach me **chowdhurysandeep25@gmail.com**
 
-- ⚡ Fun fact **I just failed to run a startups, Planning for the next ;)**
+- ⚡ Fun fact **80% of a data scientist’s job is cleaning data… and the other 20% is complaining about cleaning the data. ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
